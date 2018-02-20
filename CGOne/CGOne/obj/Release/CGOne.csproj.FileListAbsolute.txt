@@ -1,0 +1,20 @@
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\bin\Release\CGOne.exe.config
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\bin\Release\CGOne.exe
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\bin\Release\CGOne.pdb
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\obj\Release\CGOne.Form1.resources
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\obj\Release\CGOne.CustomKernel.resources
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\obj\Release\CGOne.Properties.Resources.resources
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\obj\Release\CGOne.csproj.GenerateResource.Cache
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\obj\Release\CGOne.exe
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\obj\Release\CGOne.pdb
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\obj\Release\CGOne.csprojResolveAssemblyReference.cache
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Release\CGOne.Form1.resources
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Release\CGOne.CustomKernel.resources
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Release\CGOne.Properties.Resources.resources
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Release\CGOne.csproj.GenerateResource.Cache
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Release\CGOne.csproj.CoreCompileInputs.cache
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Release\CGOne.exe
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Release\CGOne.pdb
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\bin\Release\CGOne.exe.config
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\bin\Release\CGOne.exe
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\bin\Release\CGOne.pdb

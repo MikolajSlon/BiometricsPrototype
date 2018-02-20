@@ -1,0 +1,31 @@
+h:\windows7\documents\visual studio 2015\Projects\CGOne\CGOne\bin\Debug\CGOne.exe.config
+h:\windows7\documents\visual studio 2015\Projects\CGOne\CGOne\bin\Debug\CGOne.exe
+h:\windows7\documents\visual studio 2015\Projects\CGOne\CGOne\bin\Debug\CGOne.pdb
+h:\windows7\documents\visual studio 2015\Projects\CGOne\CGOne\obj\Debug\CGOne.csprojResolveAssemblyReference.cache
+h:\windows7\documents\visual studio 2015\Projects\CGOne\CGOne\obj\Debug\CGOne.Form1.resources
+h:\windows7\documents\visual studio 2015\Projects\CGOne\CGOne\obj\Debug\CGOne.Properties.Resources.resources
+h:\windows7\documents\visual studio 2015\Projects\CGOne\CGOne\obj\Debug\CGOne.csproj.GenerateResource.Cache
+h:\windows7\documents\visual studio 2015\Projects\CGOne\CGOne\obj\Debug\CGOne.exe
+h:\windows7\documents\visual studio 2015\Projects\CGOne\CGOne\obj\Debug\CGOne.pdb
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\bin\Debug\CGOne.exe.config
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\obj\Debug\CGOne.exe
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\obj\Debug\CGOne.pdb
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\obj\Debug\CGOne.csprojResolveAssemblyReference.cache
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\bin\Debug\CGOne.exe
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\bin\Debug\CGOne.pdb
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\obj\Debug\CGOne.Form1.resources
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\obj\Debug\CGOne.Properties.Resources.resources
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\obj\Debug\CGOne.csproj.GenerateResource.Cache
+D:\Nowe Dokumenty\Dokumenty\Projekty\CGOne\CGOne\obj\Debug\CGOne.CustomKernel.resources
+H:\Windows7\Documents\Visual Studio 2015\Projects\CGOne\CGOne\obj\Debug\CGOne.CustomKernel.resources
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\bin\Debug\CGOne.exe.config
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\bin\Debug\CGOne.exe
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\bin\Debug\CGOne.pdb
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Debug\CGOne.Form1.resources
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Debug\CGOne.CustomKernel.resources
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Debug\CGOne.Properties.Resources.resources
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Debug\CGOne.csproj.GenerateResource.Cache
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Debug\CGOne.csproj.CoreCompileInputs.cache
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Debug\CGOne.exe
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Debug\CGOne.pdb
+C:\Users\Mikolaj\Documents\Projekty\Biometrics\CGOne\CGOne\obj\Debug\CGOne.csprojResolveAssemblyReference.cache
